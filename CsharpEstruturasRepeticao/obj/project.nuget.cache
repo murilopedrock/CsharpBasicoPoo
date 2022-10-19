@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWFSKYfd24jBi3P/+2GYjPywzfofGPYiLHu2LB1slhTM3QbcRIEgXivgQ1/P2sTb6ZfBl3aq66I3A/pD8aV84g==",
+  "success": true,
+  "projectFilePath": "D:\\EstudoDev\\C SHARP POO - Direto ao Ponto\\CsharpDiretoAoPontoHelloWorld\\CsharpDiretoAoPonto.EstruturasRepeticao\\CsharpEstruturasRepeticao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

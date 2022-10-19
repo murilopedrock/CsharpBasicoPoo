@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yULZxRGu+VOG2R8v7BS0qULne6LqEMXjEoJPbmAwC5r26bW4F2slu2af3l1hb+Gfmfe4IvArKaeqVEd/ehW4UA==",
+  "success": true,
+  "projectFilePath": "D:\\EstudoDev\\C SHARP POO - Direto ao Ponto\\CsharpDiretoAoPontoHelloWorld\\CsharpPOO\\CsharpPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

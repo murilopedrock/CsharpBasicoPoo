@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\bin\Debug\net5.0\CsharpTrabalhandoComArquivos.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\refint\CsharpTrabalhandoComArquivos.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\CsharpTrabalhandoComArquivos.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTrabalhandoComArquivos\obj\Debug\net5.0\ref\CsharpTrabalhandoComArquivos.dll

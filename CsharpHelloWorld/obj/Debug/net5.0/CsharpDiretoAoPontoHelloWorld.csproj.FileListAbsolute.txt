@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\bin\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\refint\CsharpDiretoAoPontoHelloWorld.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\CsharpDiretoAoPontoHelloWorld.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPontoHelloWorld\obj\Debug\net5.0\ref\CsharpDiretoAoPontoHelloWorld.dll

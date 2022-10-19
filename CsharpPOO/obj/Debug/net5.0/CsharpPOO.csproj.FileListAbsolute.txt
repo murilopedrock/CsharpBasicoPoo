@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\bin\Debug\net5.0\CsharpPOO.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\refint\CsharpPOO.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\CsharpPOO.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpPOO\obj\Debug\net5.0\ref\CsharpPOO.dll

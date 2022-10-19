@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XkTwRqpjx3377fJeERs1NJWtl9c0NtCvpatkWB6Q0BwA2ZfyyRLp1ZSO3cFtv5h+1VZ8WVgO9wWUJUCv9/Dcfg==",
+  "success": true,
+  "projectFilePath": "D:\\EstudoDev\\C SHARP POO - Direto ao Ponto\\CsharpDiretoAoPontoHelloWorld\\CsharpTratamentoDeExcecoes\\CsharpTratamentoDeExcecoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ap7Fm9wWScC2rWHOrYZXd6K1PkMgOWcZWaKSKx0NxKLfwp/xkkHzkAWfJ95V/JHaVI3MhSB69NZhizDvenNoQ==",
+  "success": true,
+  "projectFilePath": "D:\\EstudoDev\\C SHARP POO - Direto ao Ponto\\CsharpDiretoAoPontoHelloWorld\\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\\CsharpTiposDadosConversoesOperadores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

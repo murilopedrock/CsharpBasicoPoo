@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\bin\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\refint\CsharpDiretoAoPonto.EstruturasRepeticao.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\CsharpDiretoAoPonto.EstruturasRepeticao.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.EstruturasRepeticao\obj\Debug\net5.0\ref\CsharpDiretoAoPonto.EstruturasRepeticao.dll

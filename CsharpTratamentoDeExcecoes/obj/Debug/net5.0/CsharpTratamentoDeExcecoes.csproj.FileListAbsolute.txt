@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\bin\Debug\net5.0\CsharpTratamentoDeExcecoes.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\refint\CsharpTratamentoDeExcecoes.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\CsharpTratamentoDeExcecoes.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpTratamentoDeExcecoes\obj\Debug\net5.0\ref\CsharpTratamentoDeExcecoes.dll

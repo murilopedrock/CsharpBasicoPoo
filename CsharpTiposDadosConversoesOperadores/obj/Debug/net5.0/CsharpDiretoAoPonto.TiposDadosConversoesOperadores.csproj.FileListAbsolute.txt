@@ -1,0 +1,16 @@
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.exe
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.deps.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.runtimeconfig.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.runtimeconfig.dev.json
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\bin\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.csproj.AssemblyReference.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.AssemblyInfoInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.AssemblyInfo.cs
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.csproj.CoreCompileInputs.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\refint\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.dll
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.pdb
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.genruntimeconfig.cache
+D:\EstudoDev\C SHARP POO - Direto ao Ponto\CsharpDiretoAoPontoHelloWorld\CsharpDiretoAoPonto.TiposDadosConversoesOperadores\obj\Debug\net5.0\ref\CsharpDiretoAoPonto.TiposDadosConversoesOperadores.dll
